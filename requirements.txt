@@ -1,0 +1,6 @@
+click==7.1.2
+pandas
+openpyxl
+selenium
+beautifulsoup4
+
